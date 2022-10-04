@@ -38,3 +38,4 @@ For details of how to build and deploy these tasks/extensions see [this repo's w
 ## Included Extensions in the Repo 
 For more details of how to use these tasks see [this repo's wiki](https://github.com/rfennell/AzurePipelines/wiki)
 
+i5w5u7azsa3ce3kk775d3ya3xovfkdvxaenb56rbqeqj5wum7o7q
